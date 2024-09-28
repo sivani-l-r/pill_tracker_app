@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609024087237",
+    "project_id": "pill-tracker-953af",
+    "storage_bucket": "pill-tracker-953af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609024087237:android:6c06771d7290c6616c0cac",
+        "android_client_info": {
+          "package_name": "com.example.pill_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0QdZ0hV98aLeihairAtsMF9c076D8r-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
