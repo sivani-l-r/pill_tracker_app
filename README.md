@@ -1,16 +1,18 @@
-# pill_tracker
+# Pill Tracker App
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+The Pill Tracker App is a mobile application designed to help individuals manage their medication schedules and enhance adherence to prescribed pill regimens. With an intuitive interface, users can log their daily pill intake and view insightful statistics to stay accountable for their health routines.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Daily Tracking**: Log whether you've taken your pills each day.
+- **Visual Statistics**: View total pills taken, missed, and individual statistics for different pills.
+- **Reminders**: (Optional) Set reminders for each medication to ensure timely intake.
+- **User Authentication**: Secure login to maintain personalized data.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Frontend**: Flutter
+- **Backend**: Firebase (Firestore for data storage, Firebase Auth for authentication)
+
