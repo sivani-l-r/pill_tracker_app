@@ -14,5 +14,5 @@ The Pill Tracker App is a mobile application designed to help individuals manage
 ## Tech Stack
 
 - **Frontend**: Flutter
-- **Backend**: Firebase (Firestore for data storage, Firebase Auth for authentication)
+- **Backend**: Firebase 
 
